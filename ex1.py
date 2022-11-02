@@ -1,7 +1,6 @@
 def main():
     print("Hello World")
     print("Hello Amit")
-    print("foock off")
     print("itay was here")
 
 
